@@ -9,6 +9,9 @@ header {
 nav {
   background-color: #bbdefb;
 }
+h1 {
+  margin-bottom: 0;
+}
 h2 {
   color: #1976d2;
 }
