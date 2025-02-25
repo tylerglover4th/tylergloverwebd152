@@ -22,23 +22,29 @@ nav a {
 h1 {
   margin-bottom: 0;
 }
-h1,h2,h3{
+h1,
+h2,
+h3,
+footer {
   font-family: Georgia, "Times New Roman", Times, serif;
 }
 h2 {
   color: #1976d2;
 }
-h3{
+h3 {
   color: #0003;
 }
 dt {
   color: #002171;
 }
-footer{font-size: 75%;
-font-style: italic;
-text-align: center;}
+footer {
+  font-size: 75%;
+  font-style: italic;
+  text-align: center;
+}
 .resort {
   color: #1976d2;
 }
-#contact{font-size: 90%;
+#contact {
+  font-size: 90%;
 }
