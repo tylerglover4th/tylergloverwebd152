@@ -29,7 +29,9 @@ nav {
   font-weight: bold;
   padding: 1em;
   text-align: center;
-  vertical-align: center;
+}
+nav ul{
+  text-align: center;
 }
 nav a {
   text-decoration: none;
