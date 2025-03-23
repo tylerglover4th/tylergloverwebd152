@@ -1,11 +1,21 @@
-body {
-  background-color: rgb(26, 26, 26);
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link
+  href="https://fonts.googleapis.com/css2?family=Honk&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap"
+  rel="stylesheet"
+/>
+
+main {
+  
 }
+
 h1 {
   font-family: honk;
   font-size: 100px;
+  background-color: #0f0f0f;
 }
 p {
   font-family: nunito;
   color: rgb(243, 97, 43);
+  background-color: #0f0f0f;
 }
